@@ -17,3 +17,25 @@ Top reasons for a movie watchlist app
 * Create group to do playlists to to watch with friends and check them off.
 * Movie to do list because why not? Why can’t movies be a part of your daily life.
 * Go to watchlist and add a movie to my day. Set reminders to watch a movie. Set a due date. Add notes about the movie.
+
+Features
+* Add movies to new watclist or existing
+* Share watchlist with other users
+* Users can sync other users watchlists to their account
+* Convert watchlists to todo lists
+* Set reminders, add watch due date, write personal note for each watch-todo item.
+* Check out watched movies from watchlist
+
+Screenshots of the initial app design
+
+![1](https://user-images.githubusercontent.com/21018138/195381972-709a1ae3-72ae-4607-a44a-a7ab642ae61e.png)
+![2](https://user-images.githubusercontent.com/21018138/195381973-a9e30fd6-c355-4b63-8493-f7313ac467d1.png)
+![3](https://user-images.githubusercontent.com/21018138/195381975-95c1f739-7d7c-4d2c-a158-ba0dc058f1ae.png)
+![4](https://user-images.githubusercontent.com/21018138/195381978-27d4fb7e-3fc7-4799-b905-2ac3de0305a8.png)
+![5](https://user-images.githubusercontent.com/21018138/195381981-848674fc-531f-49ce-b013-c923a480e934.png)
+![6](https://user-images.githubusercontent.com/21018138/195381984-34722581-7d77-47d2-a54e-248a9c5c066f.png)
+![7](https://user-images.githubusercontent.com/21018138/195381989-4d93e50b-6da5-451b-8b7a-c2b7b562acd3.png)
+![8](https://user-images.githubusercontent.com/21018138/195381991-99dcc622-2af2-4be9-ae0e-1bfbf17df33a.png)
+![9](https://user-images.githubusercontent.com/21018138/195381994-005e8d14-b47c-4f14-9da4-c09d11dd6d63.png)
+![10](https://user-images.githubusercontent.com/21018138/195381996-b4c4a259-0a57-431d-b604-eeee9c61a67b.png)
+![11](https://user-images.githubusercontent.com/21018138/195381998-e8dba688-c73d-4f99-9a16-8758d87f5d70.png)
