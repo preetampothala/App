@@ -92,7 +92,10 @@ How to build. How to organize the code and what Swift programming features to us
   - Display other users watchlists
   - Import other users watchlists
 
+## Features
+A very basic flowchart of the initial features
 
+![Flowchart – 1](https://user-images.githubusercontent.com/21018138/195483262-b81cf637-9f7d-4e13-bed3-bd590b68a77e.png)
 
 
 
