@@ -57,4 +57,29 @@ Visualize the different actions that user can take and how the program reacts to
 ###### Architecture
 How to build. How to organize the code and what Swift programming features to use.
 
+## User Stories - Movie watch-todo list app
+
+* As a user **I want to login in to my account, check trending movies** so I can stay updated on latest movies based on my preferences (movie feed).
+* As a user **I want to click on the movie to get the movie details** so I can know about the movie.
+* As a user **I want to create movie watchlists and add movies to it or add a movie to an existing watch list** so I can come and watch them later or without forgetting.
+* As a user **I want to convert my watch list to a watch-todo list** so I can stay organized on my movie watching time.
+* As a user **I want to share watchlists with other users or import other users watchlists** so I can share my movie knowledge or ckeck others movie interests.
+
+## Features
+
+* As a user **I want to login in to my account, check trending movies** so I can stay updated on latest movies based on my preferences (movie feed).
+
+> Login or create account
+> Onboarding to get user preferences
+> Movie feed on home page
+
+
+
+
+
+
+
+
+
+
 
