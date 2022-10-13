@@ -1,7 +1,7 @@
 # App
 ## Repository for personal Mobile Application
 
-######Idea: Personal Movie Watchlist-To Do App
+## Idea: Personal Movie Watchlist-To Do App
 
 How cool it is to create movie play lists like you do for music. Who doesn’t like a movie buff. I love it when my friends call be back and say “Thank you for suggesting this movie. You are the best at suggesting movies”
 
