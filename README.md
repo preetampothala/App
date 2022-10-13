@@ -67,35 +67,30 @@ How to build. How to organize the code and what Swift programming features to us
 
 ## Features
 
-As a user **I want to login in to my account, check trending movies** so I can stay updated on latest movies based on my preferences (movie feed).
-
-> Login or create account
-> Onboarding to get user preferences
-> Movie feed on home page to display movies based on user's movie taste
+1.As a user **I want to login in to my account, check trending movies** so I can stay updated on latest movies based on my preferences (movie feed).
+  - Login or create account
+  - Onboarding to get user preferences
+  - Movie feed on home page to display movies based on user's movie taste
 
 As a user **I want to click on the movie to get the movie details** so I can know about the movie.
-
-> Movie details page
+  - Movie details page
 
 As a user **I want to create movie watchlists and add movies to it or add a movie to an existing watch list** so I can come and watch them later or without forgetting.
-
-> Create new watchlist
-> Add movie to existing watchlist
-> Watchlist page to view all watchlists
+  - Create new watchlist
+  - Add movie to existing watchlist
+  - Watchlist page to view all watchlists
 
 As a user **I want to convert my watch list to a watch-todo list** so I can stay organized on my movie watching time.
-
-> Convert a watchlist to a todo list
-> Add favourites to watch first
-> Create wath due dates for each movie
-> Reminders for the movie
-> Check the watched movies
+  - Convert a watchlist to a todo list
+  - Add favourites to watch first
+  - Create wath due dates for each movie
+  - Reminders for the movie
+  - Check the watched movies
 
 As a user **I want to share watchlists with other users or import other users watchlists** so I can share my movie knowledge or ckeck others movie interests.
-
-> Share a watch list
-> Display other users watchlists
-> Import other users watchlists
+  - Share a watch list
+  - Display other users watchlists
+  - Import other users watchlists
 
 
 
