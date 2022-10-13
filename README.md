@@ -39,7 +39,7 @@ How cool it is to create movie play lists like you do for music. Who doesn’t l
 ![10](https://user-images.githubusercontent.com/21018138/195381996-b4c4a259-0a57-431d-b604-eeee9c61a67b.png)
 ![11](https://user-images.githubusercontent.com/21018138/195381998-e8dba688-c73d-4f99-9a16-8758d87f5d70.png)
 
-###### Project planning
+## Project planning
 Before I step in any further I wanted to focus on project planning phase so that I don’t encounter any problems while programming it.
 
 User Stories -> Features -> Flow Chart -> Architecture
